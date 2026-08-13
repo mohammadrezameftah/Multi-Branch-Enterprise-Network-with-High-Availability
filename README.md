@@ -1,3 +1,4 @@
+<img width="1414" height="839" alt="Screenshot 2026-08-11 140419" src="https://github.com/user-attachments/assets/76dd3223-4cff-4147-9b9c-08ebeb33b9c9" />
 
 # -Multi-Branch-Enterprise-Network-with-High-Availability
 Multi-branch enterprise network topology in GNS3 with 5 branches, VRRP/HSRP high availability, active/standby core routers, ISP redundancy, and VLAN segmentation (VLAN 10: Users, VLAN 20: Servers, VLAN 99: Management). Ideal for practicing multi-site networking, redundancy protocols, and enterprise routing.P
